@@ -3,4 +3,6 @@ XYZ Reader Starter Code
 This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
 
 ![Screenshot](Screenshot_2020-02-04-13-57-27-454_com.example.xyzreader.png)
+
+
 ![Screenshot](Screenshot_2020-02-04-13-57-34-120_com.example.xyzreader.png)
